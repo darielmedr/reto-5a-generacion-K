@@ -1,0 +1,17 @@
+{
+  "name": "reto-5a-generacion-k",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.7.0",
+    "nodemon": "^2.0.7"
+  }
+}
